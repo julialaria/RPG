@@ -1,0 +1,12 @@
+wizardorwarrior, id, name, hp, stamina-mana, strength-intelligence
+wizard, 0, Gandalf, 76, 35, 146
+warrior, 1, Conan, 123, 12, 5
+wizard, 2, Saruman, 65, 30, 25
+warrior, 3, Aragorn, 170, 50, 4
+warrior, 4, Legolas, 137, 46, 6
+warrior, 5, Tyron, 170, 27, 8
+wizard, 6, Houdini, 155, 41, 23
+wizard, 7, Eliphas, 180, 20, 29
+wizard, 8, Evanora, 124, 11, 34
+warrior, 9, Xena, 187, 28, 6
+warrior, 10, Hercules, 154, 44, 7
